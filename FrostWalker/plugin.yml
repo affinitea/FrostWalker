@@ -1,0 +1,5 @@
+name: FrostWalker
+version: 1.0
+author: Affinity
+main: me.affinity.frostwalker.Main
+description: Gives almost all mobs frostwalker effect
